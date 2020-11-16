@@ -1,0 +1,205 @@
+*{box-sizing: border-box;
+padding: 0;
+width: 1170px;
+margin: 0 auto;
+}
+ 
+#d1{
+    width: 1170px;
+    height: 320px;
+    background-color: burlywood;
+    padding: 10px;
+    margin-bottom: 20px;}
+#d2{
+    width: 300px;
+    height: 300px;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: 25px;
+  
+}
+#d3{
+    width: 800px;
+    height: 90px;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 150px;
+}
+#d1{
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;}
+
+  
+        
+    
+    #p1{ width: 70px;
+        height: 100px;
+        background-color: black;
+        text-align: right;
+        margin-top: -110px;
+        margin-right: 10px;
+        margin-left: 875px
+    }
+    #p2{ width: 70px;
+        height: 100px;
+        background-color: blueviolet ;
+        margin-top: -110px;
+        margin-right: 10px;
+        margin-left: 965px;
+    }#p3{
+         width: 70px;
+        height: 100px;
+         background-color: blue ;
+         text-align: right;
+         margin-top: -110px;
+         margin-right: 10px;
+         margin-left: 1055px;
+         
+    }
+    article{
+        width: 1170x;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+       
+        
+    }
+ 
+    
+    #c1 {
+    width: 370px;
+    height: 720px;
+    background-color: orange;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    
+    }
+    
+    #c2 {
+        width: 370px;
+        height: 720px;
+        background-color:olive;
+       margin-top: 20px;
+       margin-bottom: 30px;
+    
+    }
+    
+    #c3 {
+        width: 370px;
+        height: 720px;
+        background-color: orangered;
+        margin-top: 20px;
+        margin-right: 0px;
+        margin-bottom: 30px;
+        margin-left: 20px;
+    
+    }
+    
+    #c4 {
+        width: 575px;
+        height: 490px;
+        background-color: lightsalmon;
+        margin-bottom: 30px;
+        margin-left: 0px;
+
+    }
+    
+    #c5 {
+        width: 575px;
+        height: 490px;
+        background-color: lightcoral;
+        margin-bottom: 30px;
+        margin-right: 0px;
+    }
+    
+    .sec {
+        width: 1170px;
+        height: 720px;
+        background-color: palegreen;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    #s1 {
+        width: 365px;
+        height: 545px;
+        background-color: royalblue;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin: 60px 10px 60px 60px;
+    } 
+    
+    #s2 {
+        width: 365px;
+        height: 545px;
+        background-color: blueviolet;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin: 60px 60px 60px 300px;
+    }
+#que{
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+    
+    #a1 {
+        width: 270px;
+        height: 330px;
+        background-color: yellow;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+    #a2 {
+        width: 270px;
+        height: 330px;
+        background-color:lightblue ;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    #a3 {
+        width: 270px;
+        height: 330px;
+        background-color: yellow ;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    #a4 {
+        width: 270px;
+        height: 330px;
+        background-color: lightblue;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 0px;
+    }
+    
+    footer {
+        width: 1170px;
+        height: 200px;
+        background-color: slategrey;
+    }
+    
+    .container {
+        width: 1170px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
